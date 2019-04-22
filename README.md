@@ -6,4 +6,4 @@ CS487 Project Part 1:
   
   Issues were encountered in regards to the installation of Postgres. Configuring a new DBMS from scratch required more than just clicking next until it's done. After overcoming initial misconfigurations and successfully setting up a database, connecting the Admin console also proved difficult. I believe most of this was a side effect of installing the DBMS on a virtual machine, but was solved after some configuration changes (such as the fact that MS server 2016 comes with Internet Explorer, which had a ton of security issues and blocks).
   
-  Loaded data into system:
+  Attached image shows 100 tuples loaded into a table.
